@@ -29,6 +29,13 @@ _Lung Cancer Prediction Using RNA-Sequencing Data with Ensemble Methods._
 **Journal of Korean Artificial Intelligence Association**, 2(1), 7-14.  
 🔗 [DOI: 10.24225/jkaia.2024.2.1.7](https://doi.org/10.24225/jkaia.2024.2.1.7)
 
+
+## 🚀 Projects
+
+### 🧍 Crowd Crush Prevention System Using YOLO (2023)
+A smart surveillance system leveraging **YOLO (You Only Look Once)** to detect high-density human clusters in real time, aimed at **preventing crowd crush accidents** in urban and event spaces.  
+🔧 Core Tech: YOLOv5, OpenCV, Real-time Object Detection, Alert System  
+
 ---
 
 ## 💻 Tech Interests
