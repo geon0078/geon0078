@@ -18,7 +18,7 @@
 ## 🧪 Research Publications
 
 ### 📄 2025  
-**AN, G., & Kang, M. S.** (2025).  
+**Geon AN, & Kang, M. S.** (2025).  
 _Optimal Machine Learning Model Selection for Predicting Cancer Drug Response Using Genomic Data._  
 **Korean Journal of Artificial Intelligence**, 13(1), 35-41.  
 🔗 [DOI: 10.24225/kjai.2025.13.1.35](https://doi.org/10.24225/kjai.2025.13.1.35)
