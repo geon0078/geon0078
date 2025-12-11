@@ -55,8 +55,13 @@ Empowers **low-income and digitally vulnerable consumers** with **optimal purcha
 
 ## 🎓 EUL-GPT: Campus Assistant Chatbot with Multimodal AI (2025)
 An advanced **multimodal campus chatbot** designed for **university students**, developed with support from the **청소년청년재단**.  
-EUL-GPT enhances campus life by integrating **voice, image, and document understanding**, providing a comprehensive, interactive academic assistant.
+EUL-GPT enhances campus life by integrating **voice, image, and document understanding**, providing a comprehensive, interactive academic assistant.  
+Built with **RAG (Retrieval-Augmented Generation)** for accurate campus-specific knowledge, **fine-tuned models** for domain adaptation, and **quantization techniques** for efficient deployment.
+
 - **Core Tech**:
+  - **RAG (Retrieval-Augmented Generation)**: Context-aware responses using campus document retrieval
+  - **Fine-tuning**: Domain-specific model adaptation for university environment
+  - **Quantization**: Model optimization for efficient inference and deployment
   - LLM Integration (Gemini API)
   - Multimodal AI: Text, Image, Speech
   - Document QA & Summarization
